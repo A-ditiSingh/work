@@ -130,10 +130,13 @@
     font-size: 6.5rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
+      margin-top: : 5rem;
   }
   .masthead h2 {
     max-width: 30rem;
     font-size: 1.25rem;
+      margin-top: 5rem;
+
   }
 }
 
@@ -172,7 +175,8 @@
 }
 
 .about-section p {
-  margin-bottom: 5rem;
+  text-align: justify;
+  margin-bottom: 3.5rem;
 }
 
 .projects-section {
