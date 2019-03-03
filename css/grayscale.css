@@ -167,6 +167,10 @@
 .btn-primary:active {
   background-color: #467370 !important;
 }
+.pubs-section p {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
 
 .about-section {
   padding-top: 5rem;
